@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>내장객체 - requsest</title>
+<title>내장객체-Requsest</title>
 </head>
 <body>
 	
 	<h2>1. 클라이언트와 서버의 환경정보 읽기</h2>
 	
-	<a href="./RequstwebInfo.jsp?eng=Hello&han=안녕">Get방식 전송</a>
+	<a href="./RequstwebInfo.jsp?eng=Hello&han=안녕">Get 방식 전송</a>
 	<br/>
 	
 	<form method="post" action="RequstwebInfo.jsp">
@@ -44,5 +44,6 @@
 	
 	<h2>3. HTTP 요청 헤더 정보 읽기</h2>
 	<a href="RequestHeader.jsp">요청 헤더 정보 읽기</a>
+	
 </body>
 </html>

@@ -28,8 +28,6 @@
 			<li>성별 : <%=sex %></li>
 			<li>관심사항 : <%=favoStr %></li>
 			<li>자기소개 : <%=intro %></li>
-		
-		
 		</ul>
 </body>
 </html>
